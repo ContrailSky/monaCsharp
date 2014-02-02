@@ -21,3 +21,6 @@ Features :
 コマンド実行部分はBitcoin-Toolを参照しました。  
 I referred Bitcoin-Tool to program the part of Run Command.  
 <https://github.com/mb300sd/Bitcoin-Tool>
+
+
+Donate : MSny7fzHiS3r8FYwRm2i7RyjSRfzRWWMwX
