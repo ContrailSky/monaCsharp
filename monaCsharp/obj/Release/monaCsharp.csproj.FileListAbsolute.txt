@@ -1,0 +1,5 @@
+C:\Users\Contrail\Documents\Visual Studio 2013\Projects\monaCsharp\monaCsharp\bin\Release\monaCsharp.dll
+C:\Users\Contrail\Documents\Visual Studio 2013\Projects\monaCsharp\monaCsharp\bin\Release\monaCsharp.pdb
+C:\Users\Contrail\Documents\Visual Studio 2013\Projects\monaCsharp\monaCsharp\obj\Release\monaCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Contrail\Documents\Visual Studio 2013\Projects\monaCsharp\monaCsharp\obj\Release\monaCsharp.dll
+C:\Users\Contrail\Documents\Visual Studio 2013\Projects\monaCsharp\monaCsharp\obj\Release\monaCsharp.pdb
