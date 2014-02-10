@@ -143,9 +143,9 @@ namespace monaCsharp
         {
             if (address.Length != 34)
             {
-                return "認められないアドレス";
+                return "認められないアドレス" + address.Length.ToString();
             }
-            if (address.Substring(1) != "M")
+            if (address.Substring(0, 1) != "M")
             {
                 return "認められないアドレス";
             }
